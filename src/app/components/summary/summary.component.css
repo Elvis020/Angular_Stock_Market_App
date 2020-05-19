@@ -1,0 +1,19 @@
+:host .card m-2{
+  background: #333333;
+}
+
+
+:host .increase{
+  background: #558B2F;
+  color: #fff;
+}
+
+:host .decrease{
+  background: #C62828;
+  color: #fff;
+}
+
+:host .neutral{
+  background: #696969	;
+  color: #fff;
+}
